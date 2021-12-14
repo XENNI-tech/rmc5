@@ -1,8 +1,7 @@
-local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
+local CoreGui = game:GetService("StarterGui")
  CoreGui:SetCore("SendNotification",{
--- Customizable
 Title    = "RMc5 - Sploit Loaded",
-Text     = "RMc5 - Sploit GUI Has been Loaded. Enjoy using cheats. Cracked Vesion...",
+Text     = "RMc5 - Sploit GUI Has been Loaded. Enjoy using cheats. This is a cracked version, the esp dosnt work complitly...",
 Duration = 10,
 })
 
@@ -18,16 +17,6 @@ local espupdatetime = 5; autoesp = false
 
 local lockaim = true; local lockangle = 5
  
- 
---function findwat(folder, what)
---  for i, smth in pairs(folder:GetChildren()) do
---  if string.find(string.lower(tostring(smth)), string.lower(what)) then
---  return smth
---  end
---  end
---end
---
---local plrs = findwat(game, "Players")
  
  
  
@@ -70,35 +59,35 @@ ImageLabel.Position = UDim2.new(0.380386323, 0, 0.915337384, 0)
 ImageLabel.Size = UDim2.new(0, 69, 0, 69)
 ImageLabel.Image = "http://www.roblox.com/asset/?id=8238050940"
 
-TextLabel.Parent = ScreenGui
-TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.Parent                 = ScreenGui
+TextLabel.BackgroundColor3       = Color3.fromRGB(255, 255, 255)
 TextLabel.BackgroundTransparency = 1.000
-TextLabel.Position = UDim2.new(0.471025258, 0, 0.926380396, 0)
-TextLabel.Size = UDim2.new(0, 200, 0, 50)
-TextLabel.Font = Enum.Font.Roboto
-TextLabel.Text = "RMc5 - Sploit GUI"
-TextLabel.TextColor3 = Color3.fromRGB(0, 181, 226)
-TextLabel.TextSize = 45.000
+TextLabel.Position               = UDim2.new(0.471025258, 0, 0.926380396, 0)
+TextLabel.Size                   = UDim2.new(0, 200, 0, 50)
+TextLabel.Font                   = Enum.Font.Roboto
+TextLabel.Text                   = "RMc5 - Sploit GUI_crack"
+TextLabel.TextColor3             = Color3.fromRGB(0, 181, 226)
+TextLabel.TextSize               = 45.000
 
-TextLabel_2.Parent = ScreenGui
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.Parent                 = ScreenGui
+TextLabel_2.BackgroundColor3       = Color3.fromRGB(255, 255, 255)
 TextLabel_2.BackgroundTransparency = 1.000
-TextLabel_2.Position = UDim2.new(0.509658277, 0, 0.914110422, 0)
-TextLabel_2.Size = UDim2.new(0, 200, 0, 18)
-TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "Made By: RMc5 Developpers"
-TextLabel_2.TextColor3 = Color3.fromRGB(0, 181, 226)
-TextLabel_2.TextSize = 20.000
+TextLabel_2.Position               = UDim2.new(0.509658277, 0, 0.914110422, 0)
+TextLabel_2.Size                   = UDim2.new(0, 200, 0, 18)
+TextLabel_2.Font                   = Enum.Font.SourceSans
+TextLabel_2.Text                   = "Made By: RMc5 Developpers - Cracked by XLsr"
+TextLabel_2.TextColor3             = Color3.fromRGB(0, 181, 226)
+TextLabel_2.TextSize               = 20.000
 
-TextLabel_3.Parent = ScreenGui
-TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.Parent                 = ScreenGui
+TextLabel_3.BackgroundColor3       = Color3.fromRGB(255, 255, 255)
 TextLabel_3.BackgroundTransparency = 1.000
-TextLabel_3.Position = UDim2.new(0, 0, 0.971779168, 0)
-TextLabel_3.Size = UDim2.new(0, 285, 0, 23)
-TextLabel_3.Font = Enum.Font.SourceSans
-TextLabel_3.Text = "More Cheats Soon. Avalible Only in RMc5's ScriptHub"
-TextLabel_3.TextColor3 = Color3.fromRGB(0, 181, 226)
-TextLabel_3.TextSize = 14.000
+TextLabel_3.Position               = UDim2.new(0, 0, 0.971779168, 0)
+TextLabel_3.Size                   = UDim2.new(0, 285, 0, 23)
+TextLabel_3.Font                   = Enum.Font.SourceSans
+TextLabel_3.Text                   = "Cracked b XLsr"
+TextLabel_3.TextColor3             = Color3.fromRGB(0, 181, 226)
+TextLabel_3.TextSize               = 14.000
 
 Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -189,15 +178,15 @@ TextLabel_10.Text = "Remember this is in BETA"
 TextLabel_10.TextColor3 = Color3.fromRGB(0, 181, 226)
 TextLabel_10.TextSize = 14.000
 
-TextLabel_11.Parent = WarningScreen
-TextLabel_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_11.Parent                 = WarningScreen
+TextLabel_11.BackgroundColor3       = Color3.fromRGB(255, 255, 255)
 TextLabel_11.BackgroundTransparency = 1.000
-TextLabel_11.Position = UDim2.new(0, 0, 0.651708305, 0)
-TextLabel_11.Size = UDim2.new(0, 234, 0, 23)
-TextLabel_11.Font = Enum.Font.SciFi
-TextLabel_11.Text = "Only avalible in RMc5 ScriptHub"
-TextLabel_11.TextColor3 = Color3.fromRGB(0, 181, 226)
-TextLabel_11.TextSize = 14.000
+TextLabel_11.Position               = UDim2.new(0, 0, 0.651708305, 0)
+TextLabel_11.Size                   = UDim2.new(0, 234, 0, 23)
+TextLabel_11.Font                   = Enum.Font.SciFi
+TextLabel_11.Text                   = "Cracked version by XLsr"
+TextLabel_11.TextColor3             = Color3.fromRGB(0, 181, 226)
+TextLabel_11.TextSize               = 14.000
 
 TextButton.Parent = WarningScreen
 TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -296,11 +285,6 @@ Name.TextScaled             = true
 Name.TextSize               = 14
 Name.TextWrapped            = true
 Name.TextXAlignment         = Enum.TextXAlignment.Left
--- Scripts:
- 
-
-
-
 
 
 
@@ -336,7 +320,6 @@ if TeamBased == true then
 if plr.Team.Name ~= plrs.LocalPlayer.Team.Name  then
 local e = espforlder:FindFirstChild(plr.Name)
 if not e then
---print("Added esp for team based")
 local bill                   = Instance.new("BillboardGui", espforlder)
 bill.Name                    = plr.Name
 bill.AlwaysOnTop             = true
@@ -359,7 +342,6 @@ end
 else
 local e = espforlder:FindFirstChild(plr.Name)
 if not e then
---print("Added esp")
 local bill                   = Instance.new("BillboardGui", espforlder)
 bill.Name                    = plr.Name
 bill.AlwaysOnTop             = true
@@ -384,8 +366,8 @@ end
 end
 end
 end
-local cam = game.Workspace.CurrentCamera
-local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
+local cam     = game.Workspace.CurrentCamera
+local CoreGui = game:GetService("StarterGui")
 
  
 local mouse = lplr:GetMouse()
@@ -395,9 +377,140 @@ local aimatpart = nil
 mouse.KeyDown:Connect(function(a)
 if a == "t" then
 print("worked1")
-f.addesp()
+local plr = game.Players.LocalPlayer
+local camera = game.Workspace.CurrentCamera
+
+for i, v in pairs(game.Players:GetChildren()) do
+
+
+    local Bottom = Drawing.new("Line")
+    Bottom.Visible = false
+    Bottom.From = Vector2.new(0, 0)
+    Bottom.To = Vector2.new(200, 200)
+    Bottom.Color = Color3.fromRGB(0, 181, 226)
+    Bottom.Thickness = 2
+    Bottom.Transparency = 1
+
+
+    local Right = Drawing.new("Line")
+    Right.Visible = false
+    Right.From = Vector2.new(0, 0)
+    Right.To = Vector2.new(200, 200)
+    Right.Color = Color3.fromRGB(0, 181, 226)
+    Right.Thickness = 2
+    Right.Transparency = 1
+
+    function ESP()
+        local connection
+        connection = game:GetService("RunService").RenderStepped:Connect(function()
+            if v.Character ~= nil and v.Character:FindFirstChild("HumanoidRootPart") ~= nil and v.Name ~= plr.Name  and v.Character.Humanoid.Health > 0 then 
+                local ScreenPos, OnScreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+                if OnScreen then
+                    local Scale = v.Character.Head.Size.Y/2
+                    local Size = Vector3.new(2, 3, 0) * (Scale * 2)
+                    local humpos = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+                    local TL = camera:WorldToViewportPoint((v.Character.HumanoidRootPart.CFrame * CFrame.new(Size.X, Size.Y, 0)).p)
+                    local TR = camera:WorldToViewportPoint((v.Character.HumanoidRootPart.CFrame * CFrame.new(-Size.X, Size.Y, 0)).p)
+                    local BL = camera:WorldToViewportPoint((v.Character.HumanoidRootPart.CFrame * CFrame.new(Size.X, -Size.Y, 0)).p)
+                    local BR = camera:WorldToViewportPoint((v.Character.HumanoidRootPart.CFrame * CFrame.new(-Size.X, -Size.Y, 0)).p)
+
+                    Right.From = Vector2.new(TR.X, TR.Y)
+                    Right.To = Vector2.new(BR.X, BR.Y)
+
+                    Bottom.From = Vector2.new(BL.X, BL.Y)
+                    Bottom.To = Vector2.new(BR.X, BR.Y)
+
+                    if v.TeamColor == plr.TeamColor then
+                        Bottom.Color = Color3.fromRGB(0, 255, 0)
+                        Right.Color  = Color3.fromRGB(0, 255, 0)
+                    else 
+                        Bottom.Color = Color3.fromRGB(0, 181, 226)
+                        Right.Color = Color3.fromRGB(0, 181, 226)
+                    end
+
+                    Bottom.Visible = true
+                    Right.Visible = true
+                else 
+                    Bottom.Visible = false
+                    Right.Visible = false
+                end
+            else 
+                Bottom.Visible = false
+                Right.Visible = false
+                if game.Players:FindFirstChild(v.Name) == nil then
+                    connection:Disconnect()
+                end
+            end
+        end)
+    end
+    coroutine.wrap(ESP)()
+end
+
+game.Players.PlayerAdded:Connect(function(newplr)
+
+    local Bottom        = Drawing.new("Line")
+    Bottom.Visible      = false
+    Bottom.From         = Vector2.new(0, 0)
+    Bottom.To           = Vector2.new(200, 200)
+    Bottom.Color        = Color3.fromRGB(0, 181, 226)
+    Bottom.Thickness    = 2
+    Bottom.Transparency = 1
+
+
+    local Right        = Drawing.new("Line")
+    Right.Visible      = false
+    Right.From         = Vector2.new(0, 0)
+    Right.To           = Vector2.new(200, 200)
+    Right.Color        = Color3.fromRGB(0, 181, 226)
+    Right.Thickness    = 2
+    Right.Transparency = 1
+
+    function ESP()
+        local connection
+        connection = game:GetService("RunService").RenderStepped:Connect(function()
+            if newplr.Character ~= nil and newplr.Character:FindFirstChild("HumanoidRootPart") ~= nil and newplr.Name ~= plr.Name  and newplr.Character.Humanoid.Health > 0 then
+                local ScreenPos, OnScreen = camera:WorldToViewportPoint(newplr.Character.HumanoidRootPart.Position)
+                if OnScreen then
+                    local Scale  = newplr.Character.Head.Size.Y/2
+                    local Size   = Vector3.new(2, 3, 0) * (Scale * 2)
+                    local humpos = camera:WorldToViewportPoint(newplr.Character.HumanoidRootPart.Position)
+                    local BL     = camera:WorldToViewportPoint((newplr.Character.HumanoidRootPart.CFrame * CFrame.new(Size.X, -Size.Y, 0)).p)
+                    local BR     = camera:WorldToViewportPoint((newplr.Character.HumanoidRootPart.CFrame * CFrame.new(-Size.X, -Size.Y, 0)).p)
+
+
+
+                    Right.From = Vector2.new(TR.X, TR.Y)
+                    Right.To = Vector2.new(BR.X, BR.Y)
+
+                    Bottom.From = Vector2.new(BL.X, BL.Y)
+                    Bottom.To = Vector2.new(BR.X, BR.Y)
+
+                    if newplr.TeamColor == plr.TeamColor then
+                        Bottom.Color = Color3.fromRGB(0, 255, 0)
+                        Right.Color = Color3.fromRGB(0, 255, 0)
+                    else 
+                        Bottom.Color = Color3.fromRGB(0, 181, 226)
+                        Right.Color  = Color3.fromRGB(0, 181, 226)
+                    end
+
+                    Bottom.Visible = false
+                    Right.Visible  = false
+                else 
+                    Bottom.Visible = false
+                    Right.Visible = false
+                end
+            else 
+                Bottom.Visible = false
+                Right.Visible = false
+                if game.Players:FindFirstChild(newplr.Name) == nil then
+                    connection:Disconnect()
+                end
+            end
+        end)
+    end
+    coroutine.wrap(ESP)()
+end)
 CoreGui:SetCore("SendNotification",{
--- Customizable
 Title    = "ESP Updated",
 Text     = "ESP Has been updated.",
 Duration = 10,
@@ -412,7 +525,6 @@ elseif a == "l" then
 if autoesp == false then
 autoesp = true
 CoreGui:SetCore("SendNotification",{
--- Customizable
 Title    = "ESP Loop",
 Text     = "ESP Loop is now Enabled.",
 Duration = 10,
@@ -420,7 +532,6 @@ Duration = 10,
 else
 autoesp = false
 CoreGui:SetCore("SendNotification",{
--- Customizable
 Title    = "ESP Loop",
 Text     = "ESP Loop is now disabled.",
 Duration = 10,
@@ -487,9 +598,7 @@ function getfovxyz (p0, p1, deg)
 local x1, y1, z1 = p0:ToOrientation()
 local cf = CFrame.new(p0.p, p1.p)
 local x2, y2, z2 = cf:ToOrientation()
---local d = math.deg
 if deg then
---return Vector3.new(d(x1-x2), d(y1-y2), d(z1-z2))
 else
 return Vector3.new((x1-x2), (y1-y2), (z1-z2))
 end
@@ -552,44 +661,6 @@ aimatpart = nil
 end
 end
  
- 
---  if switch == true then
---  local maxangle = 99999
--- 
---  --print("Loop")
---  if true and raycast == false then
---  for i, plr in pairs(plrs:GetChildren()) do
---  if plr.Name ~= lplr.Name and plr.Character and plr.Character.Head and plr.Character.Humanoid and plr.Character.Humanoid.Health > 1 then
---  if TeamBased then
---  if plr.Team.Name ~= lplr.Team.Name or plr.Team.TeamColor ~= lplr.Team.TeamColor then
---  local an = checkfov(plr.Character.Head)
---  if an < maxangle then
---  maxangle = an
---  aimatpart = plr.Character.Head
---  if an < lockangle then
---  break
---  end
---  end
---  end
---  else
---  local an = checkfov(plr.Character.Head)
---  if an < maxangle then
---  maxangle = an
---  aimatpart = plr.Character.Head
---  if an < lockangle then
---  break
---  end
---  end
---  end
--- 
--- 
--- 
--- 
---  end
---  end
---  elseif raycast == true then
--- 
---  end
  
 if raycast == true and switch == false and not aimatpart then
 getaimbotplrs()
