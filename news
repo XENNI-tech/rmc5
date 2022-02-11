@@ -1,3 +1,14 @@
+v7==============================================
+ -Added themes(DarkMode and WhiteMode)
+ -Removed "Quick Panel" ; "Misc Tab" ; "Loadable Scripts"
+ (Now avalible in Settings, MainHub)
+ -Added a File checking Module to avoid errors
+ -Added automatic download for missing files
+ -Status Bar moved in the main Bar
+ -Changed Tab Control whith a better one
+ -New Buttons Disign
+ -Bugs Fixed
+================================================
 v6.1==============================================
 Complete fix of v6 and
 v6 has been shut down due Code errors
