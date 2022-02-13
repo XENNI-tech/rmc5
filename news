@@ -1,3 +1,18 @@
+v7.1==============================================
+-Added new Options:
+   -TopMost
+   -Opacity decrese when Mouse Leave / Increse when Enter
+   -ScriptText Size
+   -StartUp Text(Changable)
+   
+-Whats New?
+ -New UI
+ -TopMost
+ -Opacity decrese when Mouse Leave / Increse when Enter
+ -ScriptText Size
+ -StartUp Text(Changable)
+ -BUGS Fixed
+================================================
 v7==============================================
 -Added themes(DarkMode and WhiteMode)
 -Removed "Quick Panel" ; "Misc Tab" ; "Loadable Scripts"
